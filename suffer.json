@@ -8,5 +8,12 @@
     "verifier": "ILoveBabiesBennemans",
     "verification": "https://youtu.be/V1O8oX5SO5k",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "ObjectiveSplat",
+            "link": "https://youtu.be/fc6PUTQzow0",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }

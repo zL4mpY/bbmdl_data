@@ -8,5 +8,12 @@
     "verifier": "Superhaccylacey",
     "verification": "https://youtu.be/5KYsaZuLH8c",
     "percentToQualify": "100",
-    "records": []
+    "records": [
+        {
+            "user": "Aqilhensem_128",
+            "link": "https://www.youtube.com/live/VBxnkpO6bMk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }

@@ -8,5 +8,12 @@
     "verifier": "BakonGuyThing_0107",
     "verification": "https://youtu.be/DpP0DuNat9Y",
     "percentToQualify": "50",
-    "records": []
+    "records": [
+        {
+            "user": "Aqilhensem_128",
+            "link": "https://www.youtube.com/live/NkF9TIVMrNM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
